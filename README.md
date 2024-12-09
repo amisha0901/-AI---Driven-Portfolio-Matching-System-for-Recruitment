@@ -6,6 +6,7 @@
 
 
 Features:-
+
 1)Job Description Analysis: Utilizes LangChain and ChatGroq to extract important details such as job roles, required skills, and experience levels from job descriptions, enabling precise matching.
 
 2)Semantic Search: Integrates Chroma vector database to perform semantic search, matching candidate portfolios based on the skills and experience required for a particular role.
